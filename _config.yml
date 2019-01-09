@@ -1,15 +1,15 @@
 remote_theme : TaylanTatli/Moon
 # Site
-title:              Moon
+title:              개발 블로그
 bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "나는 누구? 여긴 어디?"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://izowooi.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -39,21 +39,21 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            izowooi
+facebook:           izowooi@hotmail.com
+github-url:         izowooi.github.com
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              izowooi
 #dribbble:          username
-#youtube:           username
+youtube:           izowooi@hotmail.com
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
